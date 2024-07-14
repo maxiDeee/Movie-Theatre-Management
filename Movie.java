@@ -1,7 +1,4 @@
 // -----------------------------------------------------
-// Assignment 2
-// Question:
-// Written by: Hongyu Chen  40070191
 // The Movie class implements the Serializable interface, enabling instances of this class to be serialized,
 // converted into a stream of bytes for storage or transmission to another part of a system.
 // It provides constructors to initialize the attributes, getter and setter methods to access and modify them,
