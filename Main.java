@@ -1,7 +1,4 @@
 // -----------------------------------------------------
-// Assignment 2
-// Question:
-// Written by: Hongyu Chen  40070191
 // The Main class serves as the driver class for a movie management application that utilizes the MovieManager class
 // to perform a series of operations related to movie record processing.
 // -----------------------------------------------------
