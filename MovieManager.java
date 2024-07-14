@@ -1,7 +1,4 @@
 // -----------------------------------------------------
-// Assignment 2
-// Question:
-// Written by: Hongyu Chen  40070191
 // The class MovieManager is created for managing movie records, including error logging, reading and partitioning
 // movie records based on their genres, serialization, and navigation through movie records.
 // The basic functionalities of the class include:
